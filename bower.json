@@ -1,0 +1,22 @@
+{
+  "name": "CreativeDB",
+  "description": "ejemplo de interfaz usando mongodb, php",
+  "main": "index.php",
+  "moduleType": [],
+  "keywords": [
+    "php",
+    "mongodb",
+    "jquery",
+    "html",
+    "css"
+  ],
+  "authors": [
+    "Emmanuel Contreras"
+  ],
+  "license": "MIT",
+  "homepage": "almacen404.com",
+  "dependencies": {
+    "Materialize": "materialize#~0.97.5",
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}
