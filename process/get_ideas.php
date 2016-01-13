@@ -43,7 +43,7 @@ foreach ($result as $ideas) {
                     <div class="g-box-hea row">
                       <div class="photo col l3 "><i class="material-icons bg-'.$ideas['focus_id'].'">person</i></div>
                       <div class="title col l9">
-                        <h5>'.$ideas['user'].')</h5>
+                        <h5>'.$ideas['user'].'</h5>
                         <span>'.$ideas['date'].'</span>
                       </div>
                     </div>

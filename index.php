@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">    
-    <meta name="viewport" content="width=device-width, initial-scale=1">   
-    
+  <head>    
     <title>Ideas - Emmanuel Contreras</title>
-    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>    
 
-    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">    
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> 
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+
     <link type="text/css" rel="stylesheet" href="bower_components/normalize-css/normalize.css"  media="screen"/>
     <link type="text/css" rel="stylesheet" href="bower_components/Materialize/dist/css/materialize.min.css"  media="screen"/>
     <link type="text/css" rel="stylesheet" href="css/style.idea.css"  media="screen,projection"/>    
