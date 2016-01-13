@@ -5,5 +5,10 @@ En bower.json encontraran las siguientes dependencias
 materialize (+ jquery)
 normalize
 
+Pendiendes
+Creacion de Enfoques.
+Busqueda por campo de texto.
+Paginacion al realizar scroll.
+
 
 
